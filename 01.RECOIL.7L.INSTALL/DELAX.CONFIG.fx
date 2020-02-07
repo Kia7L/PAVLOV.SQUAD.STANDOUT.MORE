@@ -1,5 +1,5 @@
 []{
 ;1
 @<DELAX.ini<-NUL-<
-@<Settings.DL.ini<-NUL-<
+@<Settings.DL.inf<-NUL-<
 }
