@@ -1,5 +1,5 @@
-Just Place Anywere you want... Then Install ".REG" (registry)
-If you want you should Place "DLAX.CONFIG.fx" .fx(FILE)
+Just Place Anywere you want... Then Install ".REG|INSTALL" (registry)
+If you want you should Place "DLAX.fx|CONFIG" .fx(FILE)
 IN ROOT "C:\"
 Just cut or copy & paste....
 The .INF|Settings Are Angle Ratio recomondations...
