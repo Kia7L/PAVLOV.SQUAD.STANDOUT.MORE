@@ -1,8 +1,6 @@
 []{
 ;Settings.. DELAX... by Kia7L
-;It tells the game to trick it out...
-{
-float HighUp=2;(1-10:GunFireRaised)
-float LowDown=8;(1-10:GunRecoiledGripStraitCompansate)
+float HighUp=2;//(1-10:GunFireRaised)
+float LowDown=8;//(1-10:GunRecoiledGripStraitCompansate)
 }
-}
+
