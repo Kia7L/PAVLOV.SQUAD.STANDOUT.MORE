@@ -3,6 +3,6 @@
 ;It tells the game to trick it out...
 {
 float HighUp=2;(1-10:GunFireRaised)
-float LowDown=5;(1-10:GunRecoiledGripStraitCompansate)
+float LowDown=8;(1-10:GunRecoiledGripStraitCompansate)
 }
 }
