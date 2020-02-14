@@ -1,5 +1,5 @@
 []{
 ;1
-@<DELAX.ini>-NUL-<
-@<DELAX.inf>-NUL-<
+@<DELAX.ini>
+@<DELAX.inf>
 }
