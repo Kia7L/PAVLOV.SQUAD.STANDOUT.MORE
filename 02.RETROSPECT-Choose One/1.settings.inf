@@ -1,0 +1,6 @@
+[]{
+;Settings.. RETRO-DELAX... by Kia7L
+float HighUp=1;//(1-10:GunFireRaised)
+float LowDown=7;//(1-10:GunRecoiledGripStraitCompansate)
+}
+
