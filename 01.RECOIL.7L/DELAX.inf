@@ -1,6 +1,6 @@
 []{
 ;Settings.. DELAX... by Kia7L
 float HighUp=1;//(1-10:GunFireRaised)
-float LowDown=7;//(1-10:GunRecoiledGripStraitCompansate)
+float LowDown=8;//(1-10:GunRecoiledGripStraitCompansate)
 }
 
